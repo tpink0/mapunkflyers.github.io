@@ -13,7 +13,6 @@ body {
 main{
     border: solid 2px white;
     width:70%;
-    aspect-ratio: 4 / 3;
     margin-top:25px;
     margin-bottom:25px;
     margin-left:auto;
